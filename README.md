@@ -1,7 +1,8 @@
 
-[
-(¬P ∨ ¬Q)
-]
+<center>
+  (¬P ∨ ¬Q)
+</center>
+
 
 ## ✅ De Morgan’s Laws (Propositional Logic) – Easy & Step-by-Step
 
