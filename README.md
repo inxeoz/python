@@ -1,5 +1,4 @@
-<p style="text-align: center;">Your word here</p>
-
+<p align="center">Your word here</p>
 
 ## ✅ De Morgan’s Laws (Propositional Logic) – Easy & Step-by-Step
 
