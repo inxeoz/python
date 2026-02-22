@@ -1,3 +1,8 @@
+
+[
+(¬P ∨ ¬Q)
+]
+
 ## ✅ De Morgan’s Laws (Propositional Logic) – Easy & Step-by-Step
 
 De Morgan’s Laws are very important in **GATE**, **Boolean algebra**, **Digital Logic**, and **Discrete Mathematics**.
